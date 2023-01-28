@@ -1,2 +1,2 @@
 # ResearchPapers
-All Final Drafts to date froSHSU Cybersecurity M.S. Graduate program
+All Final Drafts to date from Sam Houston State University's Cybersecurity M.S. program
